@@ -1,1 +1,1 @@
-https://atharvatalla.github.io/Passx-password-manager/
+website - https://atharvatalla.github.io/Passx-password-manager/
